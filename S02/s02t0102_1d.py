@@ -12,7 +12,7 @@ my_array = arr('i', [5,10,15,20])
 print_array(my_array)
 
 #Buscar el elemento 15
-number_to_search = 100
+number_to_search = 15
 counter = 0
 print(f"Se busca {number_to_search} en el arreglo")
 for integer in my_array:
